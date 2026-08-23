@@ -1,0 +1,14 @@
+# macOS system files
+.DS_Store
+
+# Microsoft Excel temporary files
+~$*.xlsx
+~$*.xls
+
+# Python temporary files
+__pycache__/
+*.pyc
+
+# Virtual environments and private environment variables
+.venv/
+.env
